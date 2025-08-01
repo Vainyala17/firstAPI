@@ -1,0 +1,43 @@
+{
+  "rand1": {
+    "display_options": "Register a Visitor",
+    "keywords_glossary": "Visitor",
+    "action_to_perform": "Launch the Vistor's Registration Form and fill up the form using Spech to Text feature",
+    "app_method_to_call": "registerVisitor"
+  },
+  "rand2": {
+    "display_options": "Register a Grievance",
+    "keywords_glossary": "Grievance",
+    "action_to_perform": "Launch the Vistor's Registration Form and fill up the form using Spech to Text feature",
+    "app_method_to_call": "registerGrievance"
+  },
+  "rand3": {
+    "display_options": "Show the latest eGatepass",
+    "keywords_glossary": [
+      "eGatepass",
+      "gatepass",
+      "getpass",
+      "gate pass",
+      "get pass"
+    ],
+    "action_to_perform": "Read the Google Map coordinates of the Prison to be visited and launch the Google Map",
+    "app_method_to_call": "registerGrievance"
+  },
+  "rand4": {
+    "display_options": "Show Prison to visit on Google Map",
+    "keywords_glossary": "Grievance",
+    "action_to_perform": "Launch the Vistor's Registration Form and fill up the form using Spech to Text feature",
+    "app_method_to_call": "registerGrievance"
+  },
+  "rand5": {
+    "display_options": "Exit KaraSahayak",
+    "keywords_glossary": [
+      "Exit",
+      "Close",
+      "Stop",
+      "Bye"
+    ],
+    "action_to_perform": "Exit the KaraSahayak and redirect to Dashboard UI",
+    "app_method_to_call": "exitKaraSahayak"
+  }
+}
